@@ -5,7 +5,6 @@ package crescent.farming.v1beta1;
 import "gogoproto/gogo.proto";
 import "cosmos_proto/cosmos.proto";
 import "cosmos/base/v1beta1/coin.proto";
-import "crescent/farming/v1beta1/farming.proto";
 import "google/protobuf/timestamp.proto";
 
 option go_package = "github.com/crescent-network/crescent/x/farming/types";
